@@ -1,0 +1,46 @@
+[image]  loaded '/home/nvidia/jetson-inference/data/images/airplane_0.jpg'  (500x375, 3 channels)
+<detectNet.Detection object>
+   -- ClassID: 5
+   -- Confidence: 0.928223
+   -- Left:    2.44141
+   -- Top:     60.6995
+   -- Right:   499
+   -- Bottom:  274.658
+   -- Width:   496.559
+   -- Height:  213.959
+   -- Area:    106243
+   -- Center:  (250.721, 167.679)
+<detectNet.Detection object>
+   -- ClassID: 1
+   -- Confidence: 0.882324
+   -- Left:    293.457
+   -- Top:     158.936
+   -- Right:   414.551
+   -- Bottom:  369.141
+   -- Width:   121.094
+   -- Height:  210.205
+   -- Area:    25454.5
+   -- Center:  (354.004, 264.038)
+<detectNet.Detection object>
+   -- ClassID: 1
+   -- Confidence: 0.913086
+   -- Left:    116.455
+   -- Top:     177.429
+   -- Right:   233.643
+   -- Bottom:  371.887
+   -- Width:   117.188
+   -- Height:  194.458
+   -- Area:    22788
+   -- Center:  (175.049, 274.658)
+<detectNet.Detection object>
+   -- ClassID: 1
+   -- Confidence: 0.872559
+   -- Left:    1.0376
+   -- Top:     171.753
+   -- Right:   112.427
+   -- Bottom:  372.437
+   -- Width:   111.389
+   -- Height:  200.684
+   -- Area:    22354
+   -- Center:  (56.7322, 272.095)
+
